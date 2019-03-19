@@ -1,5 +1,5 @@
 def plus_two(num)
 	sum=(num + 2)
-	sum
+	return sum
 	
 end
